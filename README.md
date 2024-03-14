@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: (https://grey550.github.io/recipe-page/)
+- Live Site URL: https://grey550.github.io/recipe-page/
 
 ### Built with
 
